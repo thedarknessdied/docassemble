@@ -130,7 +130,7 @@ def filename_invalid(filename):
 
 ​	This is a test of the latest version I downloaded in docker
 
-![8b3ca76876c7b5b656825a8a3103a3e](E:\360MoveData\Users\HideInDarkness\Documents\WeChat Files\wxid_mfxuz6wprqug12\FileStorage\Temp\8b3ca76876c7b5b656825a8a3103a3e.png)
+![8b3ca76876c7b5b656825a8a3103a3e](https://github.com/thedarknessdied/docassemble/blob/main/8b3ca76876c7b5b656825a8a3103a3e.png)
 
 ## 建议 - suggestion:
 
